@@ -1,2 +1,2 @@
 # Gallery
-Boilerplate code for the unsplash-gallery project.
+code for the Unsplash-gallery project.
